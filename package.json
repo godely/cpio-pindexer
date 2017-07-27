@@ -1,5 +1,5 @@
 {
-  "name": "pindexer",
+  "name": "cpio-pindexer",
   "version": "1.0.0",
   "description": "Codepit Problems Indexer",
   "main": "index.js",
